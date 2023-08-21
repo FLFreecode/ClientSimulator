@@ -1,0 +1,16 @@
+log:
+  level: 0
+
+clients:
+  filename: "ClientsData.txt"
+  numberofclients: 1
+  resetuuid: false
+  numberofrequest: 1000
+  dilay: 1000  			# miliseconds 
+  qoute: " Qoute Example : One swallow doesn't make summer "
+  Postduplicateqoute: false
+
+server:
+  addr: "http://localhost:8690"
+
+  
