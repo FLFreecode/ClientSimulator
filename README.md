@@ -3,7 +3,7 @@ This is an application in Golang language as a simulator of web applications. Pl
 
 # Config.yml
 
-clients:
+# clients:
   filename: "ClientsData.txt"
   numberofclients: 10
   resetuuid: false
@@ -12,7 +12,7 @@ clients:
   qoute: " Qoute Example : One swallow doesn't make summer "
   Postduplicateqoute: false
 
-server:
+# server:
   addr: "http://localhost:8690"
 
   
