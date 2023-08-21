@@ -2,8 +2,8 @@
 This is an application in Golang language as a simulator of web applications. Please customize the values in the "Config.yml" file to use.
 
 # Config.yml
-
-# clients:
+`
+clients:
   filename: "ClientsData.txt"
   numberofclients: 10
   resetuuid: false
@@ -12,7 +12,7 @@ This is an application in Golang language as a simulator of web applications. Pl
   qoute: " Qoute Example : One swallow doesn't make summer "
   Postduplicateqoute: false
 
-# server:
+server:
   addr: "http://localhost:8690"
 
-  
+  ````
